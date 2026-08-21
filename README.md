@@ -1,5 +1,9 @@
 # Jonathan Rozen — ATS-Optimized Resumes
 
+## AI evaluation / freelance — August 20, 2026
+
+- [Mindrift (Toloka) — Freelance Software Engineer, AI Coding Agent Evaluation](Jonathan_Rozen_Mindrift_AI_Coding_Agent_Evaluation_Resume.pdf)
+
 ## Fresh SWE postings — August 20, 2026
 
 Verified live on official company career pages, posted/updated Aug 18–20, 2026. None overlap with previous batches.
